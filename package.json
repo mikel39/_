@@ -1,0 +1,23 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mikel39/_#readme",
+  "bugs": {
+    "url": "https://github.com/mikel39/_/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikel39/_.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
